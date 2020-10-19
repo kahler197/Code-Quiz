@@ -1,3 +1,36 @@
 :root {
     background-color: whitesmoke;
 }
+
+html, body {
+    font-family: sans-serif;
+    height: 100%;
+} 
+
+header {
+    background-color: rebeccapurple;
+    padding: 20px 35px;
+}
+
+header h3 {
+    display: inline;
+    padding: 5px;
+    font-weight: bold;
+    color: black;
+    border-radius: 15px;
+    margin: 0;
+
+    
+    
+}
+
+header .timer {
+    float: right;
+    margin: 7px 0;
+    display: inline;
+    padding: 5px;
+    font-weight: bold;
+    color: black;
+    border-radius: 15px;
+    margin: 0;
+}
